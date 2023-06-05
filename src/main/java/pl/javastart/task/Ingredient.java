@@ -1,6 +1,6 @@
 package pl.javastart.task;
 
-public class CitrJuice {
+public class Ingredient {
     String name;
     int capacity;
 }

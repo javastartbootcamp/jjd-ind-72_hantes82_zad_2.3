@@ -4,8 +4,8 @@ public class Drink {
     String name;
     double prize;
     boolean containsAlco;
-    Water water = new Water();
-    CitrJuice citrjuice = new CitrJuice();
-    Vodka vodka = new Vodka();
-    int capacity;
+    Ingredient ingredientFirst = new Ingredient();
+    Ingredient ingredientSec = new Ingredient();
+    Ingredient ingredientThrd = new Ingredient();
+
 }
